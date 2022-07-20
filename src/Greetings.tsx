@@ -3,13 +3,14 @@ import React from 'react';
 
 export default function Greetings() {
 
-
+let a="Hello World we make this with var";
 
     return (
 
         <div>
             <p>
-                Hello World
+                {a}
+
             </p>
         </div>
 
